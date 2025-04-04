@@ -1,5 +1,6 @@
 import nmap
-
+print("Tool made by: https://github.com/GabrielConforto")
+print("----------------------")
 class Network(object):
     def __init__(self):
         ip = input('Enter the IP address of the target router')
